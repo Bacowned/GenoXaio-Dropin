@@ -1,6 +1,5 @@
 # GenoXaio-Dropin
 Genovation Controlpad CP24 Dropin Replacement PCB
-This is a Dropin replacement for the pcb of the 'Genovation Controlpad CP24' POS Macro pad.
 
 Parts needed to build
 
