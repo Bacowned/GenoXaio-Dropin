@@ -10,8 +10,13 @@ Parts needed to build
 
 24x Diodes
 
+
 I make no assurances that this PCB is functional, or wont catch fire, etc.
+
 I am in no way responsible for anything you do with this file or PCB.
+
 I will provide no support for this product or file.
+
 Use this for anything you please, personal or commercial.
+
 Use at your own risk.
