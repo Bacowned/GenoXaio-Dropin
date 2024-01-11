@@ -9,6 +9,7 @@ Parts needed to build
 
 24x Diodes
 
+**** NOTICE- This is currently non-operable and needs to be reworked ****
 
 I make no assurances that this PCB is functional, or wont catch fire, etc.
 
